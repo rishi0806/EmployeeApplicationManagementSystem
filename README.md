@@ -59,31 +59,6 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 - MySQL
 - Maven
 - GitHub
-  
----
-
-## 📂 Project Structure
-
-EmployeeManagementSystem/
-│
-├── src/
-│ ├── controller/
-│ │ └── EmployeeServlet.java
-│ │
-│ ├── dao/
-│ │ └── EmployeeDAO.java
-│ │
-│ ├── model/
-│ │ └── Employee.java
-│
-├── webapp/
-│ ├── CreateEmployee.jsp
-│ ├── UpdateEmployee.jsp
-│ ├── EmployeeList.jsp
-│ └── WEB-INF/web.xml
-│
-└── README.md
-
 
 ---
 
@@ -119,6 +94,7 @@ EmployeeManagementSystem/
 👨‍💻 Author
 
   Rishikumar Jamili
+  
   Java Full Stack Developer
 
 -------
