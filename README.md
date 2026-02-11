@@ -95,7 +95,7 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 
   Rishikumar Jamili
   
-  Java Full Stack Developer
+  Java Full Stack Trainee at [Codegnan](https://in.linkedin.com/company/codegnan)
 
 -------
 ## ⭐ Note
